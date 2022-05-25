@@ -1,1 +1,1 @@
-# mygame
+# INFINITE-RUNNER-GAME
